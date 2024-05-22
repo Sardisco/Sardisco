@@ -9,4 +9,4 @@ Utilizo este espaço para aprendizagem e aprofundamento.
 
 julia.sardisco@gmail.com
 
-[https://media1.tenor.com/m/KIpV4rHwju0AAAAC/harry-potter-wand.gif]
+![](https://media1.tenor.com/m/KIpV4rHwju0AAAAC/harry-potter-wand.gif)
